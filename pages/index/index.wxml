@@ -1,0 +1,4 @@
+<view class="wxParser">
+	<rich-text nodes="{{nodes}}"></rich-text>
+</view>
+
