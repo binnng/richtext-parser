@@ -4,6 +4,10 @@
 
 ## demo
 
+```html
+<rich-text nodes="{{nodes}}" bindtap="tap"></rich-text>
+```
+
 ```js
 const richTextParser = require('../../richTextParser/index')
 
