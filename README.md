@@ -2,6 +2,8 @@
 
 小程序richtext解析器
 
+将 `richTextParser` 整个目录拷贝到项目里。
+
 ## demo
 
 ```html
